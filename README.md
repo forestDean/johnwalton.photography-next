@@ -1,6 +1,7 @@
+![Next badge](https://img.shields.io/badge/NextJS-v.13.4.8-mediumaquamarine.svg?logo=nextdotjs&logoColor=mediumaquamarine&style=flat-square)
 ![react badge](https://img.shields.io/badge/ReactJS-v.18.2.0-purple.svg?logo=react&style=flat-square)
-![node badge](https://img.shields.io/badge/NodeJS-v.18.16.1-8cc84b.svg?logo=nodedotjs&logoColor=white&style=flat-square)
-![license badge](https://img.shields.io/badge/License-AGPL_v3-yellow.svg?logo=gnu&logoColor=white&)
+![node badge](https://img.shields.io/badge/NodeJS-v.18.16.1-8cc84b.svg?logo=nodedotjs&logoColor=8cc84b&style=flat-square)
+![license badge](https://img.shields.io/badge/License-AGPL_v3-yellow.svg?logo=gnu&logoColor=yellow&style=flat-square)
 
 <!-- ![cloudflare badge](https://img.shields.io/endpoint?url=https://cloudflare-pages-badges.webmanager.workers.dev/?projectName=johnwalton-photography) -->
 
